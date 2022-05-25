@@ -1,6 +1,7 @@
 {
 	"author": "Caephas",
 	"name": "fcc-learn-npm-package-json",
+	"description":"An excercise on package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
